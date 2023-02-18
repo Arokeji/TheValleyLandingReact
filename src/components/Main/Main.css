@@ -1,0 +1,16 @@
+.main {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+p{
+    margin: 50px;
+    max-width: 500px;
+}
+
+h1 {
+    font-size: 50px;
+}
